@@ -56,8 +56,8 @@ fs.watchFile(file_exif, () => {
 })
 
 // Sticker WM
-packname = sticker_Fyuu
-author = sticker_Fyuu
+packname = sticker_name
+author = sticker_author
 wm = '© Fyuu'
 
 Intervalmsg = 1800 //detik
